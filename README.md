@@ -1,5 +1,16 @@
 #code by rivanghibran https://github.com/rivanghibran
 
+TUGAS AKHIR PRAKTIKUM MATA KULIAH PEMROGRAMAN BERORIENTASI OBJEK PRAKTIK IX
+5230411322 | RIVAN GHIBRAN BAHARUDIN SULISTYA
+
+untuk menjalankan program membutuhkan :
+    -python
+    -konfigurasi postgre
+    -kivy
+    -pyscopg2
+    -openpyxl
+    -pandas
+
 to do (fix error) list:
     -perjelas rules input (fixed)
     -pindah query search ke functions.py (fixed)
@@ -9,10 +20,3 @@ to do (fix error) list:
     -when delete pasien, delete rekam medis by id pasien (fixed)
     -uml
     -file presentasi
-
-untuk menjalankan program membutuhkan :
-    -kivy
-    -pyscopg2
-    -openpyxl
-    -pandas
-#code by rivanghibran https://github.com/rivanghibran
